@@ -1,0 +1,11 @@
+{
+  "Figure" :
+  {
+    "Description" : "Right Triangle in the first quadrant.",
+    "Segments" :
+      [
+	    {"A" : ["B", "C"] },
+	    {"B" : ["C"]}
+      ]
+  }
+}
